@@ -12,7 +12,7 @@
  * ---|------------|----------|-----|--------------------------------------
  * 01 |01/12/2017  | rkakde   |     | Moved methods getConnectedEffectivityUsagesToLFRel,getCombinedEffectivityExpression,getDummyEffectivity
  * 01 |01/12/2017  | rkakde   |     | Moved methods appendDummyFeature,getBracketCount,getFeatureMilestoneEffectivityValueFromExpr
- * 02 |06/12/2018  | rashmi  | test | For GIT Hub
+ * 02 |06/12/2018  | rashmi  | test | For GIT Hub123
  ** **********************************************************************
  */
 import java.io.BufferedReader;
